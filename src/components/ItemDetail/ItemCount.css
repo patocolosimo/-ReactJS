@@ -1,0 +1,56 @@
+.button-74 {
+    background-color: #F6F6F6;
+    border: 2px solid #1E1E1E;
+    box-shadow: #1E1E1E 4px 4px 0 0;
+    color: #1E1E1E;
+    cursor: pointer;
+    display: inline-block;
+    font-weight: 600;
+    font-size: 13px;
+    padding: 0px;
+    line-height: 30px;
+    text-align: center;
+    text-decoration: none;
+    touch-action: manipulation;
+    max-width: 120px;
+    margin-left: 150px;
+    margin-right: 150px;
+  }
+  
+  .button-74:hover {
+    background-color: #7F7679;
+    color: black;
+  }
+  
+  .button-74:active {
+    box-shadow: #1E1E1E 2px 2px 0 0;
+    transform: translate(2px, 2px);
+  }
+
+  .button-75 {
+    background-color: #F6F6F6;
+    border: 2px solid #1E1E1E;
+    box-shadow: #1E1E1E 4px 4px 0 0;
+    color: #1E1E1E;
+    cursor: pointer;
+    display: inline-block;
+    font-weight: 600;
+    font-size: 13px;
+    padding: 0px;
+    line-height: 30px;
+    text-align: center;
+    text-decoration: none;
+    touch-action: manipulation;
+    max-width: 200px;
+    width: 200px;
+  }
+  
+  .button-75:hover {
+    background-color: #7F7679;
+    color: black;
+  }
+  
+  .button-75:active {
+    box-shadow: #1E1E1E 2px 2px 0 0;
+    transform: translate(2px, 2px);
+  }
